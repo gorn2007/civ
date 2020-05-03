@@ -12,3 +12,4 @@ https://javarush.ru/groups/posts/spring-framework-java-1
 https://javarush.ru/groups/posts/477-spring-dlja-lenivihkh-osnovih-bazovihe-koncepcii-i-primerih-s-kodom-chastjh-2
 https://rutracker.org/forum/viewtopic.php?t=5252480
 https://www.ivi.ru
+http://www.doctorgreen.kz/
